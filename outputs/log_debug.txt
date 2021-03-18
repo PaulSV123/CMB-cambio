@@ -1,0 +1,1030 @@
+2021-03-13 19:40:02    Starting up the task manager..
+2021-03-13 19:40:02    Task manager is up..
+2021-03-13 19:40:02    Launched a new task.. 0/8 threads used, type: runAlignmentTask, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt
+2021-03-13 19:40:02    Launched 1 tasks and deferred 0 tasks..
+2021-03-13 19:41:02    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt, status N/A
+2021-03-13 19:41:02    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt
+2021-03-13 19:42:03    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt, status N/A
+2021-03-13 19:42:03    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt
+2021-03-13 19:43:03    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt, status N/A
+2021-03-13 19:43:03    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt
+2021-03-13 19:44:03    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt, status N/A
+2021-03-13 19:44:03    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt
+2021-03-13 19:45:03    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt, status N/A
+2021-03-13 19:45:03    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt
+2021-03-13 19:45:29    Launched a new task.. 0/8 threads used, type: runCommand, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/decomposition/initial_tree/chunks_queries/queries_chunk_1_aligned.txt
+2021-03-13 19:45:29    Launched 1 tasks and deferred 0 tasks..
+2021-03-13 19:46:03    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt, status N/A
+2021-03-13 19:46:03    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt
+2021-03-13 19:47:04    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt, status N/A
+2021-03-13 19:47:04    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt
+2021-03-13 19:47:07    Launched a new task.. 0/8 threads used, type: runCommand, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_1.txt
+2021-03-13 19:47:07    Launched 1 tasks and deferred 24 tasks..
+2021-03-13 19:47:07    Launched a new task.. 1/8 threads used, type: runCommand, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_6_mafft.txt
+2021-03-13 19:47:07    Launched 1 tasks and deferred 9 tasks..
+2021-03-13 19:47:12    Launched a new task.. 2/8 threads used, type: runCommand, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_6.txt
+2021-03-13 19:47:12    Launched 1 tasks and deferred 23 tasks..
+2021-03-13 19:47:17    Launched a new task.. 3/8 threads used, type: runCommand, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_7_mafft.txt
+2021-03-13 19:47:17    Launched 1 tasks and deferred 8 tasks..
+2021-03-13 19:47:22    Launched a new task.. 4/8 threads used, type: runCommand, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_8_mafft.txt
+2021-03-13 19:47:23    Launched 1 tasks and deferred 7 tasks..
+2021-03-13 19:47:27    Launched a new task.. 5/8 threads used, type: runCommand, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_24.txt
+2021-03-13 19:47:27    Launched 1 tasks and deferred 22 tasks..
+2021-03-13 19:47:32    Launched a new task.. 6/8 threads used, type: runCommand, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_5_mafft.txt
+2021-03-13 19:47:33    Launched 1 tasks and deferred 6 tasks..
+2021-03-13 19:47:37    Launched a new task.. 7/8 threads used, type: runCommand, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_4_mafft.txt
+2021-03-13 19:47:38    Launched 1 tasks and deferred 5 tasks..
+2021-03-13 19:47:43    Launched a new task.. 7/8 threads used, type: runCommand, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_1_mafft.txt
+2021-03-13 19:47:43    Launched 1 tasks and deferred 4 tasks..
+2021-03-13 19:48:09    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_6_mafft.txt, status RUNNING
+2021-03-13 19:48:09    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_7_mafft.txt, status RUNNING
+2021-03-13 19:48:09    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_8_mafft.txt, status RUNNING
+2021-03-13 19:48:09    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_5_mafft.txt, status RUNNING
+2021-03-13 19:48:09    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_4_mafft.txt, status RUNNING
+2021-03-13 19:48:09    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_1_mafft.txt, status RUNNING
+2021-03-13 19:48:10    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt, status N/A
+2021-03-13 19:48:10    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_6.txt, status RUNNING
+2021-03-13 19:48:10    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_24.txt, status RUNNING
+2021-03-13 19:48:10    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt
+2021-03-13 19:48:10    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_6.txt
+2021-03-13 19:48:10    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_24.txt
+2021-03-13 19:48:11    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_25.txt
+2021-03-13 19:48:11    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_22.txt
+2021-03-13 19:48:11    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_11.txt
+2021-03-13 19:48:11    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_8.txt
+2021-03-13 19:48:11    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_5.txt
+2021-03-13 19:48:12    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_16.txt
+2021-03-13 19:48:12    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_10.txt
+2021-03-13 19:48:12    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_20.txt
+2021-03-13 19:48:12    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_23.txt
+2021-03-13 19:48:12    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_14.txt
+2021-03-13 19:48:13    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_12.txt
+2021-03-13 19:48:13    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_15.txt
+2021-03-13 19:48:13    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_17.txt
+2021-03-13 19:48:13    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_2.txt
+2021-03-13 19:48:13    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_9.txt
+2021-03-13 19:48:13    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_13.txt
+2021-03-13 19:48:13    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_21.txt
+2021-03-13 19:48:14    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_18.txt
+2021-03-13 19:48:14    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_3.txt
+2021-03-13 19:48:14    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_19.txt
+2021-03-13 19:48:14    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_4.txt
+2021-03-13 19:48:14    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_7.txt
+2021-03-13 19:48:14    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_6_mafft.txt
+2021-03-13 19:48:14    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_7_mafft.txt
+2021-03-13 19:48:15    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_8_mafft.txt
+2021-03-13 19:48:15    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_5_mafft.txt
+2021-03-13 19:48:15    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_4_mafft.txt
+2021-03-13 19:48:15    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_1_mafft.txt
+2021-03-13 19:48:15    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_3_mafft.txt
+2021-03-13 19:48:15    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_10_mafft.txt
+2021-03-13 19:48:16    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_2_mafft.txt
+2021-03-13 19:48:16    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_9_mafft.txt
+2021-03-13 19:48:37    Launched a new task.. 7/8 threads used, type: runCommand, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_25.txt
+2021-03-13 19:48:37    Launched 1 tasks and deferred 21 tasks..
+2021-03-13 19:48:39    Launched a new task.. 7/8 threads used, type: runCommand, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_3_mafft.txt
+2021-03-13 19:48:39    Launched 1 tasks and deferred 3 tasks..
+2021-03-13 19:49:10    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_6_mafft.txt, status RUNNING
+2021-03-13 19:49:11    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_7_mafft.txt, status RUNNING
+2021-03-13 19:49:11    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_8_mafft.txt, status RUNNING
+2021-03-13 19:49:11    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_5_mafft.txt, status RUNNING
+2021-03-13 19:49:11    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_4_mafft.txt, status RUNNING
+2021-03-13 19:49:12    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_1_mafft.txt, status RUNNING
+2021-03-13 19:49:12    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt, status N/A
+2021-03-13 19:49:12    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_25.txt, status RUNNING
+2021-03-13 19:49:12    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_3_mafft.txt, status RUNNING
+2021-03-13 19:49:13    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt
+2021-03-13 19:49:13    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_25.txt
+2021-03-13 19:49:13    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_22.txt
+2021-03-13 19:49:13    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_11.txt
+2021-03-13 19:49:14    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_8.txt
+2021-03-13 19:49:14    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_5.txt
+2021-03-13 19:49:14    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_16.txt
+2021-03-13 19:49:14    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_10.txt
+2021-03-13 19:49:14    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_20.txt
+2021-03-13 19:49:15    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_23.txt
+2021-03-13 19:49:15    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_14.txt
+2021-03-13 19:49:15    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_12.txt
+2021-03-13 19:49:15    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_15.txt
+2021-03-13 19:49:16    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_17.txt
+2021-03-13 19:49:16    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_2.txt
+2021-03-13 19:49:16    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_9.txt
+2021-03-13 19:49:16    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_13.txt
+2021-03-13 19:49:16    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_21.txt
+2021-03-13 19:49:17    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_18.txt
+2021-03-13 19:49:17    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_3.txt
+2021-03-13 19:49:17    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_19.txt
+2021-03-13 19:49:17    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_4.txt
+2021-03-13 19:49:18    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_7.txt
+2021-03-13 19:49:18    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_6_mafft.txt
+2021-03-13 19:49:18    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_7_mafft.txt
+2021-03-13 19:49:18    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_8_mafft.txt
+2021-03-13 19:49:18    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_5_mafft.txt
+2021-03-13 19:49:19    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_4_mafft.txt
+2021-03-13 19:49:19    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_1_mafft.txt
+2021-03-13 19:49:19    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_3_mafft.txt
+2021-03-13 19:49:19    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_10_mafft.txt
+2021-03-13 19:49:19    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_2_mafft.txt
+2021-03-13 19:49:20    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_9_mafft.txt
+2021-03-13 19:50:12    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_6_mafft.txt, status RUNNING
+2021-03-13 19:50:12    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_7_mafft.txt, status RUNNING
+2021-03-13 19:50:12    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_8_mafft.txt, status RUNNING
+2021-03-13 19:50:12    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_5_mafft.txt, status RUNNING
+2021-03-13 19:50:13    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_4_mafft.txt, status RUNNING
+2021-03-13 19:50:13    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_1_mafft.txt, status RUNNING
+2021-03-13 19:50:13    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt, status N/A
+2021-03-13 19:50:13    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_25.txt, status RUNNING
+2021-03-13 19:50:13    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_3_mafft.txt, status RUNNING
+2021-03-13 19:50:14    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt
+2021-03-13 19:50:14    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_25.txt
+2021-03-13 19:50:14    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_22.txt
+2021-03-13 19:50:14    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_11.txt
+2021-03-13 19:50:15    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_8.txt
+2021-03-13 19:50:15    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_5.txt
+2021-03-13 19:50:15    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_16.txt
+2021-03-13 19:50:16    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_10.txt
+2021-03-13 19:50:16    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_20.txt
+2021-03-13 19:50:16    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_23.txt
+2021-03-13 19:50:16    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_14.txt
+2021-03-13 19:50:16    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_12.txt
+2021-03-13 19:50:16    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_15.txt
+2021-03-13 19:50:17    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_17.txt
+2021-03-13 19:50:17    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_2.txt
+2021-03-13 19:50:17    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_9.txt
+2021-03-13 19:50:17    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_13.txt
+2021-03-13 19:50:18    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_21.txt
+2021-03-13 19:50:18    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_18.txt
+2021-03-13 19:50:18    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_3.txt
+2021-03-13 19:50:18    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_19.txt
+2021-03-13 19:50:19    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_4.txt
+2021-03-13 19:50:19    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_7.txt
+2021-03-13 19:50:19    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_6_mafft.txt
+2021-03-13 19:50:19    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_7_mafft.txt
+2021-03-13 19:50:19    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_8_mafft.txt
+2021-03-13 19:50:20    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_5_mafft.txt
+2021-03-13 19:50:20    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_4_mafft.txt
+2021-03-13 19:50:20    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_1_mafft.txt
+2021-03-13 19:50:20    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_3_mafft.txt
+2021-03-13 19:50:21    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_10_mafft.txt
+2021-03-13 19:50:21    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_2_mafft.txt
+2021-03-13 19:50:21    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_9_mafft.txt
+2021-03-13 19:51:13    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_6_mafft.txt, status RUNNING
+2021-03-13 19:51:13    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_7_mafft.txt, status RUNNING
+2021-03-13 19:51:14    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_8_mafft.txt, status RUNNING
+2021-03-13 19:51:14    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_5_mafft.txt, status RUNNING
+2021-03-13 19:51:14    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_4_mafft.txt, status RUNNING
+2021-03-13 19:51:14    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_1_mafft.txt, status RUNNING
+2021-03-13 19:51:15    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt, status N/A
+2021-03-13 19:51:15    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_25.txt, status RUNNING
+2021-03-13 19:51:15    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_3_mafft.txt, status RUNNING
+2021-03-13 19:51:16    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt
+2021-03-13 19:51:16    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_25.txt
+2021-03-13 19:51:16    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_22.txt
+2021-03-13 19:51:16    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_11.txt
+2021-03-13 19:51:17    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_8.txt
+2021-03-13 19:51:17    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_5.txt
+2021-03-13 19:51:17    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_16.txt
+2021-03-13 19:51:17    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_10.txt
+2021-03-13 19:51:18    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_20.txt
+2021-03-13 19:51:18    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_23.txt
+2021-03-13 19:51:18    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_14.txt
+2021-03-13 19:51:18    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_12.txt
+2021-03-13 19:51:19    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_15.txt
+2021-03-13 19:51:19    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_17.txt
+2021-03-13 19:51:19    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_2.txt
+2021-03-13 19:51:19    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_9.txt
+2021-03-13 19:51:20    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_13.txt
+2021-03-13 19:51:20    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_21.txt
+2021-03-13 19:51:20    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_18.txt
+2021-03-13 19:51:20    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_3.txt
+2021-03-13 19:51:21    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_19.txt
+2021-03-13 19:51:21    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_4.txt
+2021-03-13 19:51:21    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_7.txt
+2021-03-13 19:51:21    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_6_mafft.txt
+2021-03-13 19:51:22    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_7_mafft.txt
+2021-03-13 19:51:22    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_8_mafft.txt
+2021-03-13 19:51:22    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_5_mafft.txt
+2021-03-13 19:51:22    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_4_mafft.txt
+2021-03-13 19:51:23    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_1_mafft.txt
+2021-03-13 19:51:23    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_3_mafft.txt
+2021-03-13 19:51:23    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_10_mafft.txt
+2021-03-13 19:51:24    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_2_mafft.txt
+2021-03-13 19:51:24    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_9_mafft.txt
+2021-03-13 19:51:25    Detected task completion: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_25.txt
+2021-03-13 19:51:26    Launched a new task.. 7/8 threads used, type: runCommand, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_10_mafft.txt
+2021-03-13 19:51:26    Launched 1 tasks and deferred 2 tasks..
+2021-03-13 19:52:17    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_6_mafft.txt, status RUNNING
+2021-03-13 19:52:17    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_7_mafft.txt, status RUNNING
+2021-03-13 19:52:18    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_8_mafft.txt, status RUNNING
+2021-03-13 19:52:18    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_5_mafft.txt, status RUNNING
+2021-03-13 19:52:18    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_4_mafft.txt, status RUNNING
+2021-03-13 19:52:18    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_1_mafft.txt, status RUNNING
+2021-03-13 19:52:18    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt, status N/A
+2021-03-13 19:52:18    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_3_mafft.txt, status RUNNING
+2021-03-13 19:52:19    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_10_mafft.txt, status RUNNING
+2021-03-13 19:52:19    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt
+2021-03-13 19:52:19    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_22.txt
+2021-03-13 19:52:19    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_11.txt
+2021-03-13 19:52:19    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_8.txt
+2021-03-13 19:52:20    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_5.txt
+2021-03-13 19:52:20    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_16.txt
+2021-03-13 19:52:20    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_10.txt
+2021-03-13 19:52:20    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_20.txt
+2021-03-13 19:52:21    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_23.txt
+2021-03-13 19:52:21    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_14.txt
+2021-03-13 19:52:21    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_12.txt
+2021-03-13 19:52:21    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_15.txt
+2021-03-13 19:52:22    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_17.txt
+2021-03-13 19:52:22    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_2.txt
+2021-03-13 19:52:22    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_9.txt
+2021-03-13 19:52:22    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_13.txt
+2021-03-13 19:52:22    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_21.txt
+2021-03-13 19:52:23    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_18.txt
+2021-03-13 19:52:23    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_3.txt
+2021-03-13 19:52:23    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_19.txt
+2021-03-13 19:52:23    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_4.txt
+2021-03-13 19:52:24    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_7.txt
+2021-03-13 19:52:24    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_6_mafft.txt
+2021-03-13 19:52:24    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_7_mafft.txt
+2021-03-13 19:52:24    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_8_mafft.txt
+2021-03-13 19:52:24    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_5_mafft.txt
+2021-03-13 19:52:25    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_4_mafft.txt
+2021-03-13 19:52:25    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_1_mafft.txt
+2021-03-13 19:52:25    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_3_mafft.txt
+2021-03-13 19:52:25    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_10_mafft.txt
+2021-03-13 19:52:26    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_2_mafft.txt
+2021-03-13 19:52:26    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_9_mafft.txt
+2021-03-13 19:53:18    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_6_mafft.txt, status RUNNING
+2021-03-13 19:53:18    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_7_mafft.txt, status RUNNING
+2021-03-13 19:53:19    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_8_mafft.txt, status RUNNING
+2021-03-13 19:53:19    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_5_mafft.txt, status RUNNING
+2021-03-13 19:53:19    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_4_mafft.txt, status RUNNING
+2021-03-13 19:53:20    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_1_mafft.txt, status RUNNING
+2021-03-13 19:53:20    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt, status N/A
+2021-03-13 19:53:20    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_3_mafft.txt, status RUNNING
+2021-03-13 19:53:20    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_10_mafft.txt, status RUNNING
+2021-03-13 19:53:21    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt
+2021-03-13 19:53:21    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_22.txt
+2021-03-13 19:53:21    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_11.txt
+2021-03-13 19:53:22    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_8.txt
+2021-03-13 19:53:22    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_5.txt
+2021-03-13 19:53:22    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_16.txt
+2021-03-13 19:53:22    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_10.txt
+2021-03-13 19:53:23    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_20.txt
+2021-03-13 19:53:23    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_23.txt
+2021-03-13 19:53:23    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_14.txt
+2021-03-13 19:53:24    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_12.txt
+2021-03-13 19:53:24    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_15.txt
+2021-03-13 19:53:24    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_17.txt
+2021-03-13 19:53:24    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_2.txt
+2021-03-13 19:53:25    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_9.txt
+2021-03-13 19:53:25    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_13.txt
+2021-03-13 19:53:25    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_21.txt
+2021-03-13 19:53:25    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_18.txt
+2021-03-13 19:53:26    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_3.txt
+2021-03-13 19:53:26    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_19.txt
+2021-03-13 19:53:26    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_4.txt
+2021-03-13 19:53:27    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_7.txt
+2021-03-13 19:53:27    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_6_mafft.txt
+2021-03-13 19:53:27    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_7_mafft.txt
+2021-03-13 19:53:27    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_8_mafft.txt
+2021-03-13 19:53:28    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_5_mafft.txt
+2021-03-13 19:53:28    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_4_mafft.txt
+2021-03-13 19:53:28    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_1_mafft.txt
+2021-03-13 19:53:28    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_3_mafft.txt
+2021-03-13 19:53:29    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_10_mafft.txt
+2021-03-13 19:53:29    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_2_mafft.txt
+2021-03-13 19:53:29    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_9_mafft.txt
+2021-03-13 19:54:21    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_6_mafft.txt, status RUNNING
+2021-03-13 19:54:21    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_7_mafft.txt, status RUNNING
+2021-03-13 19:54:22    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_8_mafft.txt, status RUNNING
+2021-03-13 19:54:22    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_5_mafft.txt, status RUNNING
+2021-03-13 19:54:22    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_4_mafft.txt, status RUNNING
+2021-03-13 19:54:22    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_1_mafft.txt, status RUNNING
+2021-03-13 19:54:22    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt, status N/A
+2021-03-13 19:54:22    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_3_mafft.txt, status RUNNING
+2021-03-13 19:54:23    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_10_mafft.txt, status RUNNING
+2021-03-13 19:54:23    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt
+2021-03-13 19:54:23    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_22.txt
+2021-03-13 19:54:23    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_11.txt
+2021-03-13 19:54:24    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_8.txt
+2021-03-13 19:54:24    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_5.txt
+2021-03-13 19:54:24    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_16.txt
+2021-03-13 19:54:24    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_10.txt
+2021-03-13 19:54:24    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_20.txt
+2021-03-13 19:54:24    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_23.txt
+2021-03-13 19:54:24    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_14.txt
+2021-03-13 19:54:25    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_12.txt
+2021-03-13 19:54:25    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_15.txt
+2021-03-13 19:54:25    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_17.txt
+2021-03-13 19:54:25    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_2.txt
+2021-03-13 19:54:26    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_9.txt
+2021-03-13 19:54:26    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_13.txt
+2021-03-13 19:54:26    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_21.txt
+2021-03-13 19:54:26    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_18.txt
+2021-03-13 19:54:26    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_3.txt
+2021-03-13 19:54:27    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_19.txt
+2021-03-13 19:54:27    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_4.txt
+2021-03-13 19:54:27    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_7.txt
+2021-03-13 19:54:27    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_6_mafft.txt
+2021-03-13 19:54:28    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_7_mafft.txt
+2021-03-13 19:54:28    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_8_mafft.txt
+2021-03-13 19:54:28    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_5_mafft.txt
+2021-03-13 19:54:28    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_4_mafft.txt
+2021-03-13 19:54:29    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_1_mafft.txt
+2021-03-13 19:54:29    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_3_mafft.txt
+2021-03-13 19:54:29    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_10_mafft.txt
+2021-03-13 19:54:29    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_2_mafft.txt
+2021-03-13 19:54:30    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_9_mafft.txt
+2021-03-13 19:55:22    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_6_mafft.txt, status RUNNING
+2021-03-13 19:55:22    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_7_mafft.txt, status RUNNING
+2021-03-13 19:55:22    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_8_mafft.txt, status RUNNING
+2021-03-13 19:55:23    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_5_mafft.txt, status RUNNING
+2021-03-13 19:55:23    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_4_mafft.txt, status RUNNING
+2021-03-13 19:55:23    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_1_mafft.txt, status RUNNING
+2021-03-13 19:55:23    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt, status N/A
+2021-03-13 19:55:23    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_3_mafft.txt, status RUNNING
+2021-03-13 19:55:23    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_10_mafft.txt, status RUNNING
+2021-03-13 19:55:23    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt
+2021-03-13 19:55:23    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_22.txt
+2021-03-13 19:55:24    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_11.txt
+2021-03-13 19:55:24    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_8.txt
+2021-03-13 19:55:24    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_5.txt
+2021-03-13 19:55:24    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_16.txt
+2021-03-13 19:55:24    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_10.txt
+2021-03-13 19:55:24    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_20.txt
+2021-03-13 19:55:25    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_23.txt
+2021-03-13 19:55:25    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_14.txt
+2021-03-13 19:55:25    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_12.txt
+2021-03-13 19:55:25    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_15.txt
+2021-03-13 19:55:25    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_17.txt
+2021-03-13 19:55:25    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_2.txt
+2021-03-13 19:55:26    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_9.txt
+2021-03-13 19:55:26    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_13.txt
+2021-03-13 19:55:26    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_21.txt
+2021-03-13 19:55:26    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_18.txt
+2021-03-13 19:55:26    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_3.txt
+2021-03-13 19:55:26    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_19.txt
+2021-03-13 19:55:27    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_4.txt
+2021-03-13 19:55:27    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_7.txt
+2021-03-13 19:55:27    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_6_mafft.txt
+2021-03-13 19:55:27    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_7_mafft.txt
+2021-03-13 19:55:27    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_8_mafft.txt
+2021-03-13 19:55:27    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_5_mafft.txt
+2021-03-13 19:55:28    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_4_mafft.txt
+2021-03-13 19:55:28    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_1_mafft.txt
+2021-03-13 19:55:28    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_3_mafft.txt
+2021-03-13 19:55:28    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_10_mafft.txt
+2021-03-13 19:55:28    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_2_mafft.txt
+2021-03-13 19:55:29    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_9_mafft.txt
+2021-03-13 19:56:23    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_6_mafft.txt, status RUNNING
+2021-03-13 19:56:24    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_7_mafft.txt, status RUNNING
+2021-03-13 19:56:24    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_8_mafft.txt, status RUNNING
+2021-03-13 19:56:25    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_5_mafft.txt, status RUNNING
+2021-03-13 19:56:25    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_4_mafft.txt, status RUNNING
+2021-03-13 19:56:25    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_1_mafft.txt, status RUNNING
+2021-03-13 19:56:25    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt, status N/A
+2021-03-13 19:56:26    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_3_mafft.txt, status RUNNING
+2021-03-13 19:56:26    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_10_mafft.txt, status RUNNING
+2021-03-13 19:56:26    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt
+2021-03-13 19:56:26    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_22.txt
+2021-03-13 19:56:27    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_11.txt
+2021-03-13 19:56:27    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_8.txt
+2021-03-13 19:56:27    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_5.txt
+2021-03-13 19:56:28    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_16.txt
+2021-03-13 19:56:28    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_10.txt
+2021-03-13 19:56:28    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_20.txt
+2021-03-13 19:56:28    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_23.txt
+2021-03-13 19:56:29    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_14.txt
+2021-03-13 19:56:29    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_12.txt
+2021-03-13 19:56:30    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_15.txt
+2021-03-13 19:56:30    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_17.txt
+2021-03-13 19:56:30    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_2.txt
+2021-03-13 19:56:31    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_9.txt
+2021-03-13 19:56:31    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_13.txt
+2021-03-13 19:56:31    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_21.txt
+2021-03-13 19:56:31    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_18.txt
+2021-03-13 19:56:32    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_3.txt
+2021-03-13 19:56:32    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_19.txt
+2021-03-13 19:56:32    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_4.txt
+2021-03-13 19:56:33    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_7.txt
+2021-03-13 19:56:33    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_6_mafft.txt
+2021-03-13 19:56:33    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_7_mafft.txt
+2021-03-13 19:56:34    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_8_mafft.txt
+2021-03-13 19:56:34    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_5_mafft.txt
+2021-03-13 19:56:34    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_4_mafft.txt
+2021-03-13 19:56:34    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_1_mafft.txt
+2021-03-13 19:56:35    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_3_mafft.txt
+2021-03-13 19:56:35    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_10_mafft.txt
+2021-03-13 19:56:35    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_2_mafft.txt
+2021-03-13 19:56:36    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_9_mafft.txt
+2021-03-13 19:57:28    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_6_mafft.txt, status RUNNING
+2021-03-13 19:57:30    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_7_mafft.txt, status RUNNING
+2021-03-13 19:57:30    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_8_mafft.txt, status RUNNING
+2021-03-13 19:57:30    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_5_mafft.txt, status RUNNING
+2021-03-13 19:57:31    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_4_mafft.txt, status RUNNING
+2021-03-13 19:57:31    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_1_mafft.txt, status RUNNING
+2021-03-13 19:57:31    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt, status N/A
+2021-03-13 19:57:31    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_3_mafft.txt, status RUNNING
+2021-03-13 19:57:32    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_10_mafft.txt, status RUNNING
+2021-03-13 19:57:32    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt
+2021-03-13 19:57:32    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_22.txt
+2021-03-13 19:57:33    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_11.txt
+2021-03-13 19:57:33    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_8.txt
+2021-03-13 19:57:33    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_5.txt
+2021-03-13 19:57:33    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_16.txt
+2021-03-13 19:57:34    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_10.txt
+2021-03-13 19:57:34    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_20.txt
+2021-03-13 19:57:34    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_23.txt
+2021-03-13 19:57:34    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_14.txt
+2021-03-13 19:57:35    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_12.txt
+2021-03-13 19:57:35    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_15.txt
+2021-03-13 19:57:35    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_17.txt
+2021-03-13 19:57:36    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_2.txt
+2021-03-13 19:57:36    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_9.txt
+2021-03-13 19:57:36    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_13.txt
+2021-03-13 19:57:36    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_21.txt
+2021-03-13 19:57:36    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_18.txt
+2021-03-13 19:57:37    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_3.txt
+2021-03-13 19:57:37    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_19.txt
+2021-03-13 19:57:37    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_4.txt
+2021-03-13 19:57:37    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_7.txt
+2021-03-13 19:57:38    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_6_mafft.txt
+2021-03-13 19:57:38    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_7_mafft.txt
+2021-03-13 19:57:38    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_8_mafft.txt
+2021-03-13 19:57:39    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_5_mafft.txt
+2021-03-13 19:57:39    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_4_mafft.txt
+2021-03-13 19:57:39    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_1_mafft.txt
+2021-03-13 19:57:39    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_3_mafft.txt
+2021-03-13 19:57:40    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_10_mafft.txt
+2021-03-13 19:57:40    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_2_mafft.txt
+2021-03-13 19:57:40    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_9_mafft.txt
+2021-03-13 19:58:32    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_6_mafft.txt, status RUNNING
+2021-03-13 19:58:32    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_7_mafft.txt, status RUNNING
+2021-03-13 19:58:33    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_8_mafft.txt, status RUNNING
+2021-03-13 19:58:33    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_5_mafft.txt, status RUNNING
+2021-03-13 19:58:34    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_4_mafft.txt, status RUNNING
+2021-03-13 19:58:34    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_1_mafft.txt, status RUNNING
+2021-03-13 19:58:34    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt, status N/A
+2021-03-13 19:58:34    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_3_mafft.txt, status RUNNING
+2021-03-13 19:58:35    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_10_mafft.txt, status RUNNING
+2021-03-13 19:58:35    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt
+2021-03-13 19:58:35    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_22.txt
+2021-03-13 19:58:36    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_11.txt
+2021-03-13 19:58:36    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_8.txt
+2021-03-13 19:58:36    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_5.txt
+2021-03-13 19:58:37    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_16.txt
+2021-03-13 19:58:37    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_10.txt
+2021-03-13 19:58:37    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_20.txt
+2021-03-13 19:58:38    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_23.txt
+2021-03-13 19:58:38    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_14.txt
+2021-03-13 19:58:38    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_12.txt
+2021-03-13 19:58:38    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_15.txt
+2021-03-13 19:58:38    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_17.txt
+2021-03-13 19:58:38    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_2.txt
+2021-03-13 19:58:38    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_9.txt
+2021-03-13 19:58:38    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_13.txt
+2021-03-13 19:58:38    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_21.txt
+2021-03-13 19:58:39    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_18.txt
+2021-03-13 19:58:39    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_3.txt
+2021-03-13 19:58:39    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_19.txt
+2021-03-13 19:58:39    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_4.txt
+2021-03-13 19:58:39    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_7.txt
+2021-03-13 19:58:39    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_6_mafft.txt
+2021-03-13 19:58:39    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_7_mafft.txt
+2021-03-13 19:58:39    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_8_mafft.txt
+2021-03-13 19:58:39    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_5_mafft.txt
+2021-03-13 19:58:39    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_4_mafft.txt
+2021-03-13 19:58:39    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_1_mafft.txt
+2021-03-13 19:58:39    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_3_mafft.txt
+2021-03-13 19:58:39    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_10_mafft.txt
+2021-03-13 19:58:39    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_2_mafft.txt
+2021-03-13 19:58:39    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_9_mafft.txt
+2021-03-13 19:59:34    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_6_mafft.txt, status RUNNING
+2021-03-13 19:59:34    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_7_mafft.txt, status RUNNING
+2021-03-13 19:59:34    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_8_mafft.txt, status RUNNING
+2021-03-13 19:59:34    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_5_mafft.txt, status RUNNING
+2021-03-13 19:59:35    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_4_mafft.txt, status RUNNING
+2021-03-13 19:59:35    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_1_mafft.txt, status RUNNING
+2021-03-13 19:59:35    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt, status N/A
+2021-03-13 19:59:35    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_3_mafft.txt, status RUNNING
+2021-03-13 19:59:36    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_10_mafft.txt, status RUNNING
+2021-03-13 19:59:36    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt
+2021-03-13 19:59:36    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_22.txt
+2021-03-13 19:59:37    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_11.txt
+2021-03-13 19:59:37    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_8.txt
+2021-03-13 19:59:37    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_5.txt
+2021-03-13 19:59:37    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_16.txt
+2021-03-13 19:59:38    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_10.txt
+2021-03-13 19:59:38    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_20.txt
+2021-03-13 19:59:38    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_23.txt
+2021-03-13 19:59:39    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_14.txt
+2021-03-13 19:59:39    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_12.txt
+2021-03-13 19:59:39    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_15.txt
+2021-03-13 19:59:39    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_17.txt
+2021-03-13 19:59:40    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_2.txt
+2021-03-13 19:59:40    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_9.txt
+2021-03-13 19:59:40    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_13.txt
+2021-03-13 19:59:40    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_21.txt
+2021-03-13 19:59:41    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_18.txt
+2021-03-13 19:59:41    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_3.txt
+2021-03-13 19:59:41    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_19.txt
+2021-03-13 19:59:42    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_4.txt
+2021-03-13 19:59:42    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_7.txt
+2021-03-13 19:59:42    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_6_mafft.txt
+2021-03-13 19:59:42    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_7_mafft.txt
+2021-03-13 19:59:43    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_8_mafft.txt
+2021-03-13 19:59:43    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_5_mafft.txt
+2021-03-13 19:59:43    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_4_mafft.txt
+2021-03-13 19:59:44    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_1_mafft.txt
+2021-03-13 19:59:44    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_3_mafft.txt
+2021-03-13 19:59:44    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_10_mafft.txt
+2021-03-13 19:59:44    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_2_mafft.txt
+2021-03-13 19:59:45    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_9_mafft.txt
+2021-03-13 20:00:37    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_6_mafft.txt, status RUNNING
+2021-03-13 20:00:37    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_7_mafft.txt, status RUNNING
+2021-03-13 20:00:38    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_8_mafft.txt, status RUNNING
+2021-03-13 20:00:38    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_5_mafft.txt, status RUNNING
+2021-03-13 20:00:38    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_4_mafft.txt, status RUNNING
+2021-03-13 20:00:38    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_1_mafft.txt, status RUNNING
+2021-03-13 20:00:39    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt, status N/A
+2021-03-13 20:00:39    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_3_mafft.txt, status RUNNING
+2021-03-13 20:00:39    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_10_mafft.txt, status RUNNING
+2021-03-13 20:00:40    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt
+2021-03-13 20:00:40    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_22.txt
+2021-03-13 20:00:40    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_11.txt
+2021-03-13 20:00:40    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_8.txt
+2021-03-13 20:00:41    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_5.txt
+2021-03-13 20:00:41    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_16.txt
+2021-03-13 20:00:41    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_10.txt
+2021-03-13 20:00:42    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_20.txt
+2021-03-13 20:00:42    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_23.txt
+2021-03-13 20:00:42    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_14.txt
+2021-03-13 20:00:42    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_12.txt
+2021-03-13 20:00:43    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_15.txt
+2021-03-13 20:00:43    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_17.txt
+2021-03-13 20:00:43    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_2.txt
+2021-03-13 20:00:43    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_9.txt
+2021-03-13 20:00:43    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_13.txt
+2021-03-13 20:00:43    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_21.txt
+2021-03-13 20:00:43    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_18.txt
+2021-03-13 20:00:43    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_3.txt
+2021-03-13 20:00:43    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_19.txt
+2021-03-13 20:00:43    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_4.txt
+2021-03-13 20:00:43    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_7.txt
+2021-03-13 20:00:43    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_6_mafft.txt
+2021-03-13 20:00:43    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_7_mafft.txt
+2021-03-13 20:00:43    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_8_mafft.txt
+2021-03-13 20:00:43    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_5_mafft.txt
+2021-03-13 20:00:43    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_4_mafft.txt
+2021-03-13 20:00:43    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_1_mafft.txt
+2021-03-13 20:00:43    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_3_mafft.txt
+2021-03-13 20:00:43    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_10_mafft.txt
+2021-03-13 20:00:43    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_2_mafft.txt
+2021-03-13 20:00:43    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_9_mafft.txt
+2021-03-13 20:01:39    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_6_mafft.txt, status RUNNING
+2021-03-13 20:01:40    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_7_mafft.txt, status RUNNING
+2021-03-13 20:01:40    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_8_mafft.txt, status RUNNING
+2021-03-13 20:01:40    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_5_mafft.txt, status RUNNING
+2021-03-13 20:01:41    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_4_mafft.txt, status RUNNING
+2021-03-13 20:01:41    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_1_mafft.txt, status RUNNING
+2021-03-13 20:01:41    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt, status N/A
+2021-03-13 20:01:42    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_3_mafft.txt, status RUNNING
+2021-03-13 20:01:42    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_10_mafft.txt, status RUNNING
+2021-03-13 20:01:42    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt
+2021-03-13 20:01:43    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_22.txt
+2021-03-13 20:01:43    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_11.txt
+2021-03-13 20:01:43    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_8.txt
+2021-03-13 20:01:43    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_5.txt
+2021-03-13 20:01:44    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_16.txt
+2021-03-13 20:01:44    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_10.txt
+2021-03-13 20:01:44    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_20.txt
+2021-03-13 20:01:44    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_23.txt
+2021-03-13 20:01:44    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_14.txt
+2021-03-13 20:01:44    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_12.txt
+2021-03-13 20:01:44    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_15.txt
+2021-03-13 20:01:44    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_17.txt
+2021-03-13 20:01:44    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_2.txt
+2021-03-13 20:01:44    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_9.txt
+2021-03-13 20:01:44    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_13.txt
+2021-03-13 20:01:44    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_21.txt
+2021-03-13 20:01:44    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_18.txt
+2021-03-13 20:01:44    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_3.txt
+2021-03-13 20:01:44    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_19.txt
+2021-03-13 20:01:44    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_4.txt
+2021-03-13 20:01:44    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_7.txt
+2021-03-13 20:01:44    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_6_mafft.txt
+2021-03-13 20:01:44    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_7_mafft.txt
+2021-03-13 20:01:44    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_8_mafft.txt
+2021-03-13 20:01:44    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_5_mafft.txt
+2021-03-13 20:01:44    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_4_mafft.txt
+2021-03-13 20:01:44    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_1_mafft.txt
+2021-03-13 20:01:44    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_3_mafft.txt
+2021-03-13 20:01:44    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_10_mafft.txt
+2021-03-13 20:01:44    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_2_mafft.txt
+2021-03-13 20:01:44    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_9_mafft.txt
+2021-03-13 20:02:41    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_6_mafft.txt, status RUNNING
+2021-03-13 20:02:41    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_7_mafft.txt, status RUNNING
+2021-03-13 20:02:41    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_8_mafft.txt, status RUNNING
+2021-03-13 20:02:42    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_5_mafft.txt, status RUNNING
+2021-03-13 20:02:42    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_4_mafft.txt, status RUNNING
+2021-03-13 20:02:42    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_1_mafft.txt, status RUNNING
+2021-03-13 20:02:43    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt, status N/A
+2021-03-13 20:02:43    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_3_mafft.txt, status RUNNING
+2021-03-13 20:02:43    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_10_mafft.txt, status RUNNING
+2021-03-13 20:02:43    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt
+2021-03-13 20:02:44    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_22.txt
+2021-03-13 20:02:44    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_11.txt
+2021-03-13 20:02:44    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_8.txt
+2021-03-13 20:02:44    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_5.txt
+2021-03-13 20:02:45    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_16.txt
+2021-03-13 20:02:45    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_10.txt
+2021-03-13 20:02:45    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_20.txt
+2021-03-13 20:02:45    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_23.txt
+2021-03-13 20:02:46    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_14.txt
+2021-03-13 20:02:46    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_12.txt
+2021-03-13 20:02:46    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_15.txt
+2021-03-13 20:02:46    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_17.txt
+2021-03-13 20:02:47    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_2.txt
+2021-03-13 20:02:47    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_9.txt
+2021-03-13 20:02:47    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_13.txt
+2021-03-13 20:02:47    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_21.txt
+2021-03-13 20:02:48    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_18.txt
+2021-03-13 20:02:48    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_3.txt
+2021-03-13 20:02:48    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_19.txt
+2021-03-13 20:02:48    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_4.txt
+2021-03-13 20:02:49    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_7.txt
+2021-03-13 20:02:49    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_6_mafft.txt
+2021-03-13 20:02:49    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_7_mafft.txt
+2021-03-13 20:02:50    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_8_mafft.txt
+2021-03-13 20:02:50    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_5_mafft.txt
+2021-03-13 20:02:50    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_4_mafft.txt
+2021-03-13 20:02:50    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_1_mafft.txt
+2021-03-13 20:02:51    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_3_mafft.txt
+2021-03-13 20:02:51    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_10_mafft.txt
+2021-03-13 20:02:51    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_2_mafft.txt
+2021-03-13 20:02:52    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_9_mafft.txt
+2021-03-13 20:02:54    Launched a new task.. 7/8 threads used, type: runCommand, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_22.txt
+2021-03-13 20:02:55    Launched 1 tasks and deferred 20 tasks..
+2021-03-13 20:03:41    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_6_mafft.txt, status RUNNING
+2021-03-13 20:03:42    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_7_mafft.txt, status RUNNING
+2021-03-13 20:03:42    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_8_mafft.txt, status RUNNING
+2021-03-13 20:03:42    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_5_mafft.txt, status RUNNING
+2021-03-13 20:03:42    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_4_mafft.txt, status RUNNING
+2021-03-13 20:03:42    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt, status N/A
+2021-03-13 20:03:43    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_22.txt, status RUNNING
+2021-03-13 20:03:43    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_3_mafft.txt, status RUNNING
+2021-03-13 20:03:43    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_10_mafft.txt, status RUNNING
+2021-03-13 20:03:43    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt
+2021-03-13 20:03:43    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_22.txt
+2021-03-13 20:03:44    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_11.txt
+2021-03-13 20:03:44    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_8.txt
+2021-03-13 20:03:44    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_5.txt
+2021-03-13 20:03:45    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_16.txt
+2021-03-13 20:03:45    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_10.txt
+2021-03-13 20:03:45    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_20.txt
+2021-03-13 20:03:45    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_23.txt
+2021-03-13 20:03:46    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_14.txt
+2021-03-13 20:03:46    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_12.txt
+2021-03-13 20:03:46    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_15.txt
+2021-03-13 20:03:47    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_17.txt
+2021-03-13 20:03:47    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_2.txt
+2021-03-13 20:03:47    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_9.txt
+2021-03-13 20:03:48    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_13.txt
+2021-03-13 20:03:48    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_21.txt
+2021-03-13 20:03:48    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_18.txt
+2021-03-13 20:03:48    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_3.txt
+2021-03-13 20:03:49    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_19.txt
+2021-03-13 20:03:49    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_4.txt
+2021-03-13 20:03:49    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_7.txt
+2021-03-13 20:03:49    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_6_mafft.txt
+2021-03-13 20:03:50    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_7_mafft.txt
+2021-03-13 20:03:50    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_8_mafft.txt
+2021-03-13 20:03:50    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_5_mafft.txt
+2021-03-13 20:03:51    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_4_mafft.txt
+2021-03-13 20:03:51    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_3_mafft.txt
+2021-03-13 20:03:51    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_10_mafft.txt
+2021-03-13 20:03:51    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_2_mafft.txt
+2021-03-13 20:03:52    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_9_mafft.txt
+2021-03-13 20:04:39    Launched a new task.. 7/8 threads used, type: runCommand, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_11.txt
+2021-03-13 20:04:39    Launched 1 tasks and deferred 19 tasks..
+2021-03-13 20:04:44    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_6_mafft.txt, status RUNNING
+2021-03-13 20:04:45    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_7_mafft.txt, status RUNNING
+2021-03-13 20:04:45    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_8_mafft.txt, status RUNNING
+2021-03-13 20:04:45    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_4_mafft.txt, status RUNNING
+2021-03-13 20:04:45    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt, status N/A
+2021-03-13 20:04:46    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_11.txt, status RUNNING
+2021-03-13 20:04:46    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_22.txt, status RUNNING
+2021-03-13 20:04:46    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_3_mafft.txt, status RUNNING
+2021-03-13 20:04:46    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_10_mafft.txt, status RUNNING
+2021-03-13 20:04:46    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt
+2021-03-13 20:04:47    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_22.txt
+2021-03-13 20:04:47    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_11.txt
+2021-03-13 20:04:47    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_8.txt
+2021-03-13 20:04:47    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_5.txt
+2021-03-13 20:04:47    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_16.txt
+2021-03-13 20:04:48    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_10.txt
+2021-03-13 20:04:48    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_20.txt
+2021-03-13 20:04:48    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_23.txt
+2021-03-13 20:04:48    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_14.txt
+2021-03-13 20:04:49    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_12.txt
+2021-03-13 20:04:49    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_15.txt
+2021-03-13 20:04:49    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_17.txt
+2021-03-13 20:04:49    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_2.txt
+2021-03-13 20:04:49    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_9.txt
+2021-03-13 20:04:50    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_13.txt
+2021-03-13 20:04:50    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_21.txt
+2021-03-13 20:04:50    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_18.txt
+2021-03-13 20:04:50    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_3.txt
+2021-03-13 20:04:50    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_19.txt
+2021-03-13 20:04:51    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_4.txt
+2021-03-13 20:04:51    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_7.txt
+2021-03-13 20:04:51    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_6_mafft.txt
+2021-03-13 20:04:51    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_7_mafft.txt
+2021-03-13 20:04:52    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_8_mafft.txt
+2021-03-13 20:04:52    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_4_mafft.txt
+2021-03-13 20:04:52    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_3_mafft.txt
+2021-03-13 20:04:52    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_10_mafft.txt
+2021-03-13 20:04:52    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_2_mafft.txt
+2021-03-13 20:04:52    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_9_mafft.txt
+2021-03-13 20:05:23    Launched a new task.. 7/8 threads used, type: runCommand, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_8.txt
+2021-03-13 20:05:24    Launched 1 tasks and deferred 18 tasks..
+2021-03-13 20:05:33    Launched a new task.. 7/8 threads used, type: runCommand, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_5.txt
+2021-03-13 20:05:33    Launched 1 tasks and deferred 17 tasks..
+2021-03-13 20:05:39    Launched a new task.. 7/8 threads used, type: runCommand, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_2_mafft.txt
+2021-03-13 20:05:39    Launched 1 tasks and deferred 1 tasks..
+2021-03-13 20:05:49    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_7_mafft.txt, status RUNNING
+2021-03-13 20:05:49    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_8_mafft.txt, status RUNNING
+2021-03-13 20:05:50    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_8.txt, status RUNNING
+2021-03-13 20:05:50    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_5.txt, status RUNNING
+2021-03-13 20:05:50    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt, status N/A
+2021-03-13 20:05:50    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_11.txt, status RUNNING
+2021-03-13 20:05:50    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_3_mafft.txt, status RUNNING
+2021-03-13 20:05:50    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_10_mafft.txt, status RUNNING
+2021-03-13 20:05:50    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_2_mafft.txt, status RUNNING
+2021-03-13 20:05:51    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt
+2021-03-13 20:05:51    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_11.txt
+2021-03-13 20:05:51    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_8.txt
+2021-03-13 20:05:51    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_5.txt
+2021-03-13 20:05:51    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_16.txt
+2021-03-13 20:05:51    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_10.txt
+2021-03-13 20:05:51    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_20.txt
+2021-03-13 20:05:51    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_23.txt
+2021-03-13 20:05:52    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_14.txt
+2021-03-13 20:05:52    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_12.txt
+2021-03-13 20:05:52    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_15.txt
+2021-03-13 20:05:52    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_17.txt
+2021-03-13 20:05:52    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_2.txt
+2021-03-13 20:05:52    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_9.txt
+2021-03-13 20:05:52    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_13.txt
+2021-03-13 20:05:52    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_21.txt
+2021-03-13 20:05:52    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_18.txt
+2021-03-13 20:05:52    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_3.txt
+2021-03-13 20:05:52    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_19.txt
+2021-03-13 20:05:52    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_4.txt
+2021-03-13 20:05:52    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_7.txt
+2021-03-13 20:05:52    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_7_mafft.txt
+2021-03-13 20:05:52    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_8_mafft.txt
+2021-03-13 20:05:52    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_3_mafft.txt
+2021-03-13 20:05:52    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_10_mafft.txt
+2021-03-13 20:05:52    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_2_mafft.txt
+2021-03-13 20:05:52    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_9_mafft.txt
+2021-03-13 20:06:25    Detected task completion: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_8_mafft.txt
+2021-03-13 20:06:25    Launched a new task.. 7/8 threads used, type: runCommand, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_16.txt
+2021-03-13 20:06:25    Launched 1 tasks and deferred 16 tasks..
+2021-03-13 20:06:41    Launched a new task.. 7/8 threads used, type: runCommand, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_9_mafft.txt
+2021-03-13 20:06:41    Launched 1 tasks and deferred 0 tasks..
+2021-03-13 20:06:41    Launched a new task.. 7/8 threads used, type: runCommand, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_10.txt
+2021-03-13 20:06:42    Launched 1 tasks and deferred 15 tasks..
+2021-03-13 20:06:52    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_7_mafft.txt, status RUNNING
+2021-03-13 20:06:52    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt, status N/A
+2021-03-13 20:06:52    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_10_mafft.txt, status RUNNING
+2021-03-13 20:06:52    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_2_mafft.txt, status RUNNING
+2021-03-13 20:06:52    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_9_mafft.txt, status RUNNING
+2021-03-13 20:06:52    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_8.txt, status RUNNING
+2021-03-13 20:06:53    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_5.txt, status RUNNING
+2021-03-13 20:06:53    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_16.txt, status RUNNING
+2021-03-13 20:06:53    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_3_mafft.txt, status RUNNING
+2021-03-13 20:06:53    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt
+2021-03-13 20:06:53    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_8.txt
+2021-03-13 20:06:53    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_5.txt
+2021-03-13 20:06:53    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_16.txt
+2021-03-13 20:06:53    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_10.txt
+2021-03-13 20:06:54    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_20.txt
+2021-03-13 20:06:54    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_23.txt
+2021-03-13 20:06:54    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_14.txt
+2021-03-13 20:06:54    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_12.txt
+2021-03-13 20:06:54    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_15.txt
+2021-03-13 20:06:54    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_17.txt
+2021-03-13 20:06:54    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_2.txt
+2021-03-13 20:06:55    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_9.txt
+2021-03-13 20:06:55    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_13.txt
+2021-03-13 20:06:55    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_21.txt
+2021-03-13 20:06:55    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_18.txt
+2021-03-13 20:06:55    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_3.txt
+2021-03-13 20:06:55    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_19.txt
+2021-03-13 20:06:56    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_4.txt
+2021-03-13 20:06:56    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_7.txt
+2021-03-13 20:06:56    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_7_mafft.txt
+2021-03-13 20:06:56    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_3_mafft.txt
+2021-03-13 20:06:57    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_10_mafft.txt
+2021-03-13 20:06:57    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_2_mafft.txt
+2021-03-13 20:06:57    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_9_mafft.txt
+2021-03-13 20:07:32    Launched a new task.. 7/8 threads used, type: runCommand, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_20.txt
+2021-03-13 20:07:32    Launched 1 tasks and deferred 14 tasks..
+2021-03-13 20:07:39    Launched a new task.. 7/8 threads used, type: runCommand, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_23.txt
+2021-03-13 20:07:40    Launched 1 tasks and deferred 13 tasks..
+2021-03-13 20:07:55    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt, status N/A
+2021-03-13 20:07:56    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_10_mafft.txt, status RUNNING
+2021-03-13 20:07:56    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_2_mafft.txt, status RUNNING
+2021-03-13 20:07:56    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_9_mafft.txt, status RUNNING
+2021-03-13 20:07:56    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_16.txt, status RUNNING
+2021-03-13 20:07:56    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_10.txt, status RUNNING
+2021-03-13 20:07:57    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_20.txt, status RUNNING
+2021-03-13 20:07:57    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_23.txt, status RUNNING
+2021-03-13 20:07:57    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_3_mafft.txt, status RUNNING
+2021-03-13 20:07:57    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt
+2021-03-13 20:07:57    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_16.txt
+2021-03-13 20:07:57    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_10.txt
+2021-03-13 20:07:58    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_20.txt
+2021-03-13 20:07:58    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_23.txt
+2021-03-13 20:07:58    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_14.txt
+2021-03-13 20:07:58    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_12.txt
+2021-03-13 20:07:58    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_15.txt
+2021-03-13 20:07:58    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_17.txt
+2021-03-13 20:07:58    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_2.txt
+2021-03-13 20:07:59    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_9.txt
+2021-03-13 20:07:59    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_13.txt
+2021-03-13 20:07:59    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_21.txt
+2021-03-13 20:07:59    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_18.txt
+2021-03-13 20:07:59    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_3.txt
+2021-03-13 20:07:59    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_19.txt
+2021-03-13 20:07:59    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_4.txt
+2021-03-13 20:07:59    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_7.txt
+2021-03-13 20:08:00    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_3_mafft.txt
+2021-03-13 20:08:00    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_10_mafft.txt
+2021-03-13 20:08:00    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_2_mafft.txt
+2021-03-13 20:08:00    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_9_mafft.txt
+2021-03-13 20:08:04    Launched a new task.. 7/8 threads used, type: runCommand, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_14.txt
+2021-03-13 20:08:04    Launched 1 tasks and deferred 12 tasks..
+2021-03-13 20:08:20    Detected task completion: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_3_mafft.txt
+2021-03-13 20:08:21    Launched a new task.. 7/8 threads used, type: runCommand, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_12.txt
+2021-03-13 20:08:21    Launched 1 tasks and deferred 11 tasks..
+2021-03-13 20:08:26    Launched a new task.. 7/8 threads used, type: runCommand, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_15.txt
+2021-03-13 20:08:27    Launched 1 tasks and deferred 10 tasks..
+2021-03-13 20:08:57    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt, status N/A
+2021-03-13 20:08:57    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_2_mafft.txt, status RUNNING
+2021-03-13 20:08:58    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_9_mafft.txt, status RUNNING
+2021-03-13 20:08:58    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_14.txt, status RUNNING
+2021-03-13 20:08:58    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_10.txt, status RUNNING
+2021-03-13 20:08:58    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_20.txt, status RUNNING
+2021-03-13 20:08:58    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_23.txt, status RUNNING
+2021-03-13 20:08:58    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_12.txt, status RUNNING
+2021-03-13 20:08:58    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_15.txt, status RUNNING
+2021-03-13 20:08:58    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt
+2021-03-13 20:08:58    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_10.txt
+2021-03-13 20:08:59    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_20.txt
+2021-03-13 20:08:59    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_23.txt
+2021-03-13 20:08:59    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_14.txt
+2021-03-13 20:08:59    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_12.txt
+2021-03-13 20:08:59    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_15.txt
+2021-03-13 20:08:59    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_17.txt
+2021-03-13 20:08:59    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_2.txt
+2021-03-13 20:08:59    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_9.txt
+2021-03-13 20:08:59    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_13.txt
+2021-03-13 20:09:00    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_21.txt
+2021-03-13 20:09:00    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_18.txt
+2021-03-13 20:09:00    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_3.txt
+2021-03-13 20:09:00    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_19.txt
+2021-03-13 20:09:00    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_4.txt
+2021-03-13 20:09:00    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_7.txt
+2021-03-13 20:09:00    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_2_mafft.txt
+2021-03-13 20:09:00    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_9_mafft.txt
+2021-03-13 20:09:02    Launched a new task.. 7/8 threads used, type: runCommand, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_17.txt
+2021-03-13 20:09:02    Launched 1 tasks and deferred 9 tasks..
+2021-03-13 20:09:02    Detected task completion: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_10.txt
+2021-03-13 20:09:03    Launched a new task.. 7/8 threads used, type: runCommand, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_2.txt
+2021-03-13 20:09:03    Launched 1 tasks and deferred 8 tasks..
+2021-03-13 20:09:03    Launched a new task.. 7/8 threads used, type: runCommand, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_9.txt
+2021-03-13 20:09:04    Launched 1 tasks and deferred 7 tasks..
+2021-03-13 20:09:23    Launched a new task.. 7/8 threads used, type: runCommand, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_13.txt
+2021-03-13 20:09:23    Launched 1 tasks and deferred 6 tasks..
+2021-03-13 20:09:39    Detected task completion: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_12.txt
+2021-03-13 20:09:39    Launched a new task.. 7/8 threads used, type: runCommand, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_21.txt
+2021-03-13 20:09:39    Launched 1 tasks and deferred 5 tasks..
+2021-03-13 20:09:45    Detected task completion: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_15.txt
+2021-03-13 20:09:45    Launched a new task.. 7/8 threads used, type: runCommand, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_18.txt
+2021-03-13 20:09:45    Launched 1 tasks and deferred 4 tasks..
+2021-03-13 20:09:46    Launched a new task.. 7/8 threads used, type: runCommand, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_3.txt
+2021-03-13 20:09:46    Launched 1 tasks and deferred 3 tasks..
+2021-03-13 20:10:01    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_9.txt, status RUNNING
+2021-03-13 20:10:01    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt, status N/A
+2021-03-13 20:10:01    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_13.txt, status RUNNING
+2021-03-13 20:10:01    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_21.txt, status RUNNING
+2021-03-13 20:10:01    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_2_mafft.txt, status RUNNING
+2021-03-13 20:10:01    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_9_mafft.txt, status RUNNING
+2021-03-13 20:10:01    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_18.txt, status RUNNING
+2021-03-13 20:10:01    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_2.txt, status RUNNING
+2021-03-13 20:10:01    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_17.txt, status RUNNING
+2021-03-13 20:10:01    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt
+2021-03-13 20:10:01    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_17.txt
+2021-03-13 20:10:01    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_2.txt
+2021-03-13 20:10:01    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_9.txt
+2021-03-13 20:10:02    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_13.txt
+2021-03-13 20:10:02    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_21.txt
+2021-03-13 20:10:02    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_18.txt
+2021-03-13 20:10:02    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_3.txt
+2021-03-13 20:10:02    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_19.txt
+2021-03-13 20:10:02    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_4.txt
+2021-03-13 20:10:02    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_7.txt
+2021-03-13 20:10:02    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_2_mafft.txt
+2021-03-13 20:10:02    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_9_mafft.txt
+2021-03-13 20:10:19    Detected task completion: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_9.txt
+2021-03-13 20:10:20    Launched a new task.. 7/8 threads used, type: runCommand, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_19.txt
+2021-03-13 20:10:20    Launched 1 tasks and deferred 2 tasks..
+2021-03-13 20:10:23    Launched a new task.. 7/8 threads used, type: runCommand, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_4.txt
+2021-03-13 20:10:23    Launched 1 tasks and deferred 1 tasks..
+2021-03-13 20:10:38    Launched a new task.. 7/8 threads used, type: runCommand, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_7.txt
+2021-03-13 20:10:38    Launched 1 tasks and deferred 0 tasks..
+2021-03-13 20:11:05    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt, status N/A
+2021-03-13 20:11:05    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_2_mafft.txt, status RUNNING
+2021-03-13 20:11:05    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_9_mafft.txt, status RUNNING
+2021-03-13 20:11:05    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_3.txt, status RUNNING
+2021-03-13 20:11:05    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_19.txt, status RUNNING
+2021-03-13 20:11:05    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_4.txt, status RUNNING
+2021-03-13 20:11:06    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_7.txt, status RUNNING
+2021-03-13 20:11:06    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt
+2021-03-13 20:11:06    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_3.txt
+2021-03-13 20:11:06    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_19.txt
+2021-03-13 20:11:06    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_4.txt
+2021-03-13 20:11:06    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_7.txt
+2021-03-13 20:11:06    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_2_mafft.txt
+2021-03-13 20:11:06    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_9_mafft.txt
+2021-03-13 20:12:05    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt, status N/A
+2021-03-13 20:12:06    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_2_mafft.txt, status RUNNING
+2021-03-13 20:12:06    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_9_mafft.txt, status RUNNING
+2021-03-13 20:12:06    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt
+2021-03-13 20:12:06    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_2_mafft.txt
+2021-03-13 20:12:06    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_9_mafft.txt
+2021-03-13 20:13:08    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt, status N/A
+2021-03-13 20:13:09    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_2_mafft.txt, status RUNNING
+2021-03-13 20:13:09    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_9_mafft.txt, status RUNNING
+2021-03-13 20:13:09    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt
+2021-03-13 20:13:09    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_2_mafft.txt
+2021-03-13 20:13:09    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_9_mafft.txt
+2021-03-13 20:14:09    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt, status N/A
+2021-03-13 20:14:09    Still running task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_2_mafft.txt, status RUNNING
+2021-03-13 20:14:09    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt
+2021-03-13 20:14:09    Still waiting on task /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_2_mafft.txt
+2021-03-13 20:14:53    Launched a new task.. 0/8 threads used, type: buildInducedSubalignment, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_16.txt
+2021-03-13 20:14:53    Launched 1 tasks and deferred 24 tasks..
+2021-03-13 20:14:53    Launched a new task.. 0/8 threads used, type: buildInducedSubalignment, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_2.txt
+2021-03-13 20:14:53    Launched 1 tasks and deferred 23 tasks..
+2021-03-13 20:14:53    Launched a new task.. 0/8 threads used, type: buildInducedSubalignment, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_14.txt
+2021-03-13 20:14:53    Launched 1 tasks and deferred 22 tasks..
+2021-03-13 20:14:53    Launched a new task.. 0/8 threads used, type: buildInducedSubalignment, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_11.txt
+2021-03-13 20:14:53    Launched 1 tasks and deferred 21 tasks..
+2021-03-13 20:14:53    Launched a new task.. 0/8 threads used, type: buildInducedSubalignment, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_4.txt
+2021-03-13 20:14:53    Launched 1 tasks and deferred 20 tasks..
+2021-03-13 20:14:53    Launched a new task.. 0/8 threads used, type: buildInducedSubalignment, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_5.txt
+2021-03-13 20:14:53    Launched 1 tasks and deferred 19 tasks..
+2021-03-13 20:14:53    Launched a new task.. 0/8 threads used, type: buildInducedSubalignment, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_13.txt
+2021-03-13 20:14:53    Launched 1 tasks and deferred 18 tasks..
+2021-03-13 20:14:53    Launched a new task.. 0/8 threads used, type: buildInducedSubalignment, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_10.txt
+2021-03-13 20:14:53    Launched 1 tasks and deferred 17 tasks..
+2021-03-13 20:14:54    Launched a new task.. 0/8 threads used, type: buildInducedSubalignment, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_9.txt
+2021-03-13 20:14:54    Launched 1 tasks and deferred 16 tasks..
+2021-03-13 20:14:54    Launched a new task.. 0/8 threads used, type: buildInducedSubalignment, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_22.txt
+2021-03-13 20:14:54    Launched 1 tasks and deferred 15 tasks..
+2021-03-13 20:14:54    Launched a new task.. 0/8 threads used, type: buildInducedSubalignment, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_7.txt
+2021-03-13 20:14:54    Launched 1 tasks and deferred 14 tasks..
+2021-03-13 20:14:54    Launched a new task.. 0/8 threads used, type: buildInducedSubalignment, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_12.txt
+2021-03-13 20:14:54    Launched 1 tasks and deferred 13 tasks..
+2021-03-13 20:14:54    Launched a new task.. 0/8 threads used, type: buildInducedSubalignment, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_3.txt
+2021-03-13 20:14:54    Launched 1 tasks and deferred 12 tasks..
+2021-03-13 20:14:54    Launched a new task.. 0/8 threads used, type: buildInducedSubalignment, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_6.txt
+2021-03-13 20:14:54    Launched 1 tasks and deferred 11 tasks..
+2021-03-13 20:14:54    Launched a new task.. 0/8 threads used, type: buildInducedSubalignment, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_8.txt
+2021-03-13 20:14:54    Launched 1 tasks and deferred 10 tasks..
+2021-03-13 20:14:54    Launched a new task.. 0/8 threads used, type: buildInducedSubalignment, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_24.txt
+2021-03-13 20:14:54    Launched 1 tasks and deferred 9 tasks..
+2021-03-13 20:14:54    Launched a new task.. 0/8 threads used, type: buildInducedSubalignment, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_18.txt
+2021-03-13 20:14:54    Launched 1 tasks and deferred 8 tasks..
+2021-03-13 20:14:54    Launched a new task.. 0/8 threads used, type: buildInducedSubalignment, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_23.txt
+2021-03-13 20:14:54    Launched 1 tasks and deferred 7 tasks..
+2021-03-13 20:14:54    Launched a new task.. 0/8 threads used, type: buildInducedSubalignment, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_1.txt
+2021-03-13 20:14:54    Launched 1 tasks and deferred 6 tasks..
+2021-03-13 20:14:55    Launched a new task.. 0/8 threads used, type: buildInducedSubalignment, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_25.txt
+2021-03-13 20:14:55    Launched 1 tasks and deferred 5 tasks..
+2021-03-13 20:14:55    Launched a new task.. 0/8 threads used, type: buildInducedSubalignment, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_15.txt
+2021-03-13 20:14:55    Launched 1 tasks and deferred 4 tasks..
+2021-03-13 20:14:55    Launched a new task.. 0/8 threads used, type: buildInducedSubalignment, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_19.txt
+2021-03-13 20:14:55    Launched 1 tasks and deferred 3 tasks..
+2021-03-13 20:14:55    Launched a new task.. 0/8 threads used, type: buildInducedSubalignment, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_17.txt
+2021-03-13 20:14:55    Launched 1 tasks and deferred 2 tasks..
+2021-03-13 20:14:55    Launched a new task.. 0/8 threads used, type: buildInducedSubalignment, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_20.txt
+2021-03-13 20:14:55    Launched 1 tasks and deferred 1 tasks..
+2021-03-13 20:14:55    Launched a new task.. 0/8 threads used, type: buildInducedSubalignment, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_21.txt
+2021-03-13 20:14:55    Launched 1 tasks and deferred 0 tasks..
+2021-03-13 20:14:55    Winding down the task manager..
+2021-03-13 20:14:55    Task manager stopped..

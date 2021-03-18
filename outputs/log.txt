@@ -1,0 +1,329 @@
+2021-03-13 19:40:02    MAGUS was run with: magus.py -d outputs -i unaligned_sequences.txt -o magunus_result.txt
+2021-03-13 19:40:02    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt
+2021-03-13 19:40:02    Aligning sequences /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/unaligned_sequences.txt
+2021-03-13 19:40:02    Building PASTA-style FastTree initial tree on /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/unaligned_sequences.txt with skeleton size 300..
+2021-03-13 19:40:02    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/decomposition/initial_tree/initial_align.txt
+2021-03-13 19:40:02    Running an external tool, command: "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/tools/mafft/mafft" --localpair --maxiterate 1000 --ep 0.123 --quiet --thread 8 --anysymbol "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/decomposition/initial_tree/skeleton_sequences.txt" > "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/decomposition/initial_tree/temp_initial_align.txt"
+2021-03-13 19:45:29    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/decomposition/initial_tree/initial_align.txt
+2021-03-13 19:45:29    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/decomposition/initial_tree/skeleton_hmm/hmm_model.txt
+2021-03-13 19:45:29    Running an external tool, command: "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/tools/hmmer/hmmbuild" --ere 0.59 --cpu 1 --symfrac 0.0 --informat afa "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/decomposition/initial_tree/skeleton_hmm/temp_hmm_model.txt" "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/decomposition/initial_tree/initial_align.txt"
+2021-03-13 19:45:29    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/decomposition/initial_tree/skeleton_hmm/hmm_model.txt
+2021-03-13 19:45:29    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/decomposition/initial_tree/chunks_queries/queries_chunk_1_aligned.txt
+2021-03-13 19:45:29    Running an external tool, command: "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/tools/hmmer/hmmalign" -o "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/decomposition/initial_tree/chunks_queries/temp_queries_chunk_1_aligned.txt" "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/decomposition/initial_tree/skeleton_hmm/hmm_model.txt" "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/decomposition/initial_tree/chunks_queries/queries_chunk_1.txt"
+2021-03-13 19:45:48    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/decomposition/initial_tree/chunks_queries/queries_chunk_1_aligned.txt
+2021-03-13 19:45:49    Data type wasn't specified. Inferred data type DNA from /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/decomposition/initial_tree/initial_align.txt
+2021-03-13 19:45:49    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/decomposition/initial_tree/initial_tree.tre
+2021-03-13 19:45:49    Running an external tool, command: "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/tools/fasttree/FastTreeMP" -nt -gtr -fastest -nosupport "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/decomposition/initial_tree/initial_align.txt" > "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/decomposition/initial_tree/temp_initial_tree.tre"
+2021-03-13 19:47:06    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/decomposition/initial_tree/initial_tree.tre
+2021-03-13 19:47:06    Built initial tree on /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/unaligned_sequences.txt in 423.50023770332336 sec..
+2021-03-13 19:47:06    Using target subset size of 50, and maximum number of subsets 25..
+2021-03-13 19:47:06    Decomposing a tree with 1000 leaves into 592 and 408..
+2021-03-13 19:47:06    Decomposing a tree with 592 leaves into 249 and 343..
+2021-03-13 19:47:06    Decomposing a tree with 408 leaves into 213 and 195..
+2021-03-13 19:47:06    Decomposing a tree with 343 leaves into 184 and 159..
+2021-03-13 19:47:06    Decomposing a tree with 249 leaves into 124 and 125..
+2021-03-13 19:47:06    Decomposing a tree with 213 leaves into 96 and 117..
+2021-03-13 19:47:06    Decomposing a tree with 195 leaves into 88 and 107..
+2021-03-13 19:47:06    Decomposing a tree with 184 leaves into 80 and 104..
+2021-03-13 19:47:06    Decomposing a tree with 159 leaves into 84 and 75..
+2021-03-13 19:47:06    Decomposing a tree with 125 leaves into 51 and 74..
+2021-03-13 19:47:06    Decomposing a tree with 124 leaves into 62 and 62..
+2021-03-13 19:47:06    Decomposing a tree with 117 leaves into 53 and 64..
+2021-03-13 19:47:06    Decomposing a tree with 107 leaves into 51 and 56..
+2021-03-13 19:47:06    Decomposing a tree with 104 leaves into 50 and 54..
+2021-03-13 19:47:06    Decomposing a tree with 96 leaves into 60 and 36..
+2021-03-13 19:47:06    Decomposing a tree with 88 leaves into 47 and 41..
+2021-03-13 19:47:06    Decomposing a tree with 84 leaves into 48 and 36..
+2021-03-13 19:47:06    Decomposing a tree with 80 leaves into 36 and 44..
+2021-03-13 19:47:06    Decomposing a tree with 75 leaves into 35 and 40..
+2021-03-13 19:47:06    Decomposing a tree with 74 leaves into 29 and 45..
+2021-03-13 19:47:06    Decomposing a tree with 64 leaves into 34 and 30..
+2021-03-13 19:47:06    Decomposing a tree with 62 leaves into 36 and 26..
+2021-03-13 19:47:06    Decomposing a tree with 62 leaves into 32 and 30..
+2021-03-13 19:47:06    Decomposing a tree with 60 leaves into 29 and 31..
+2021-03-13 19:47:06    Decomposed /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/unaligned_sequences.txt into 25 subsets in 424.16113090515137 sec..
+2021-03-13 19:47:06    Building 25 subalignments..
+2021-03-13 19:47:06    Subset has 51/200 sequences, aligning with MAFFT..
+2021-03-13 19:47:06    Subset has 53/200 sequences, aligning with MAFFT..
+2021-03-13 19:47:06    Subset has 51/200 sequences, aligning with MAFFT..
+2021-03-13 19:47:06    Subset has 56/200 sequences, aligning with MAFFT..
+2021-03-13 19:47:06    Subset has 50/200 sequences, aligning with MAFFT..
+2021-03-13 19:47:06    Subset has 54/200 sequences, aligning with MAFFT..
+2021-03-13 19:47:06    Subset has 36/200 sequences, aligning with MAFFT..
+2021-03-13 19:47:06    Subset has 47/200 sequences, aligning with MAFFT..
+2021-03-13 19:47:06    Subset has 41/200 sequences, aligning with MAFFT..
+2021-03-13 19:47:06    Subset has 48/200 sequences, aligning with MAFFT..
+2021-03-13 19:47:06    Subset has 36/200 sequences, aligning with MAFFT..
+2021-03-13 19:47:06    Subset has 36/200 sequences, aligning with MAFFT..
+2021-03-13 19:47:06    Subset has 44/200 sequences, aligning with MAFFT..
+2021-03-13 19:47:06    Subset has 35/200 sequences, aligning with MAFFT..
+2021-03-13 19:47:06    Subset has 40/200 sequences, aligning with MAFFT..
+2021-03-13 19:47:06    Subset has 29/200 sequences, aligning with MAFFT..
+2021-03-13 19:47:06    Subset has 45/200 sequences, aligning with MAFFT..
+2021-03-13 19:47:06    Subset has 34/200 sequences, aligning with MAFFT..
+2021-03-13 19:47:06    Subset has 30/200 sequences, aligning with MAFFT..
+2021-03-13 19:47:06    Subset has 36/200 sequences, aligning with MAFFT..
+2021-03-13 19:47:06    Subset has 26/200 sequences, aligning with MAFFT..
+2021-03-13 19:47:06    Subset has 32/200 sequences, aligning with MAFFT..
+2021-03-13 19:47:07    Subset has 30/200 sequences, aligning with MAFFT..
+2021-03-13 19:47:07    Subset has 29/200 sequences, aligning with MAFFT..
+2021-03-13 19:47:07    Subset has 31/200 sequences, aligning with MAFFT..
+2021-03-13 19:47:07    Prepared 25 subset alignment tasks..
+2021-03-13 19:47:07    Merging 25 subaligments..
+2021-03-13 19:47:07    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_1.txt
+2021-03-13 19:47:07    Running an external tool, command: "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/tools/mafft/mafft" --localpair --maxiterate 1000 --ep 0.123 --quiet --thread 8 --anysymbol "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/decomposition/subset_1.txt" > "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/temp_subalignment_subset_1.txt"
+2021-03-13 19:47:07    Using 10 MAFFT backbones..
+2021-03-13 19:47:07    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_6_mafft.txt
+2021-03-13 19:47:07    Running an external tool, command: "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/tools/mafft/mafft" --localpair --maxiterate 1000 --ep 0.123 --quiet --thread 8 --anysymbol "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_6_unalign.txt" > "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/temp_backbone_6_mafft.txt"
+2021-03-13 19:47:13    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_6.txt
+2021-03-13 19:47:13    Running an external tool, command: "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/tools/mafft/mafft" --localpair --maxiterate 1000 --ep 0.123 --quiet --thread 8 --anysymbol "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/decomposition/subset_6.txt" > "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/temp_subalignment_subset_6.txt"
+2021-03-13 19:47:17    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_7_mafft.txt
+2021-03-13 19:47:18    Running an external tool, command: "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/tools/mafft/mafft" --localpair --maxiterate 1000 --ep 0.123 --quiet --thread 8 --anysymbol "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_7_unalign.txt" > "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/temp_backbone_7_mafft.txt"
+2021-03-13 19:47:23    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_8_mafft.txt
+2021-03-13 19:47:23    Running an external tool, command: "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/tools/mafft/mafft" --localpair --maxiterate 1000 --ep 0.123 --quiet --thread 8 --anysymbol "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_8_unalign.txt" > "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/temp_backbone_8_mafft.txt"
+2021-03-13 19:47:27    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_24.txt
+2021-03-13 19:47:28    Running an external tool, command: "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/tools/mafft/mafft" --localpair --maxiterate 1000 --ep 0.123 --quiet --thread 8 --anysymbol "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/decomposition/subset_24.txt" > "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/temp_subalignment_subset_24.txt"
+2021-03-13 19:47:33    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_5_mafft.txt
+2021-03-13 19:47:33    Running an external tool, command: "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/tools/mafft/mafft" --localpair --maxiterate 1000 --ep 0.123 --quiet --thread 8 --anysymbol "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_5_unalign.txt" > "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/temp_backbone_5_mafft.txt"
+2021-03-13 19:47:38    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_4_mafft.txt
+2021-03-13 19:47:39    Running an external tool, command: "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/tools/mafft/mafft" --localpair --maxiterate 1000 --ep 0.123 --quiet --thread 8 --anysymbol "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_4_unalign.txt" > "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/temp_backbone_4_mafft.txt"
+2021-03-13 19:47:43    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_1.txt
+2021-03-13 19:47:44    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_1_mafft.txt
+2021-03-13 19:47:44    Running an external tool, command: "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/tools/mafft/mafft" --localpair --maxiterate 1000 --ep 0.123 --quiet --thread 8 --anysymbol "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_1_unalign.txt" > "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/temp_backbone_1_mafft.txt"
+2021-03-13 19:48:37    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_6.txt
+2021-03-13 19:48:38    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_25.txt
+2021-03-13 19:48:39    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_24.txt
+2021-03-13 19:48:40    Running an external tool, command: "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/tools/mafft/mafft" --localpair --maxiterate 1000 --ep 0.123 --quiet --thread 8 --anysymbol "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/decomposition/subset_25.txt" > "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/temp_subalignment_subset_25.txt"
+2021-03-13 19:48:41    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_3_mafft.txt
+2021-03-13 19:48:42    Running an external tool, command: "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/tools/mafft/mafft" --localpair --maxiterate 1000 --ep 0.123 --quiet --thread 8 --anysymbol "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_3_unalign.txt" > "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/temp_backbone_3_mafft.txt"
+2021-03-13 19:51:25    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_25.txt
+2021-03-13 19:51:28    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_10_mafft.txt
+2021-03-13 19:51:29    Running an external tool, command: "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/tools/mafft/mafft" --localpair --maxiterate 1000 --ep 0.123 --quiet --thread 8 --anysymbol "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_10_unalign.txt" > "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/temp_backbone_10_mafft.txt"
+2021-03-13 20:02:54    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_1_mafft.txt
+2021-03-13 20:02:56    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_22.txt
+2021-03-13 20:02:57    Running an external tool, command: "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/tools/mafft/mafft" --localpair --maxiterate 1000 --ep 0.123 --quiet --thread 8 --anysymbol "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/decomposition/subset_22.txt" > "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/temp_subalignment_subset_22.txt"
+2021-03-13 20:04:38    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_5_mafft.txt
+2021-03-13 20:04:40    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_11.txt
+2021-03-13 20:04:41    Running an external tool, command: "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/tools/mafft/mafft" --localpair --maxiterate 1000 --ep 0.123 --quiet --thread 8 --anysymbol "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/decomposition/subset_11.txt" > "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/temp_subalignment_subset_11.txt"
+2021-03-13 20:05:23    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_6_mafft.txt
+2021-03-13 20:05:25    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_8.txt
+2021-03-13 20:05:26    Running an external tool, command: "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/tools/mafft/mafft" --localpair --maxiterate 1000 --ep 0.123 --quiet --thread 8 --anysymbol "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/decomposition/subset_8.txt" > "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/temp_subalignment_subset_8.txt"
+2021-03-13 20:05:33    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_4_mafft.txt
+2021-03-13 20:05:34    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_5.txt
+2021-03-13 20:05:35    Running an external tool, command: "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/tools/mafft/mafft" --localpair --maxiterate 1000 --ep 0.123 --quiet --thread 8 --anysymbol "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/decomposition/subset_5.txt" > "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/temp_subalignment_subset_5.txt"
+2021-03-13 20:05:39    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_22.txt
+2021-03-13 20:05:39    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_2_mafft.txt
+2021-03-13 20:05:40    Running an external tool, command: "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/tools/mafft/mafft" --localpair --maxiterate 1000 --ep 0.123 --quiet --thread 8 --anysymbol "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_2_unalign.txt" > "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/temp_backbone_2_mafft.txt"
+2021-03-13 20:06:25    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_8_mafft.txt
+2021-03-13 20:06:26    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_16.txt
+2021-03-13 20:06:27    Running an external tool, command: "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/tools/mafft/mafft" --localpair --maxiterate 1000 --ep 0.123 --quiet --thread 8 --anysymbol "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/decomposition/subset_16.txt" > "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/temp_subalignment_subset_16.txt"
+2021-03-13 20:06:40    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_11.txt
+2021-03-13 20:06:43    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_9_mafft.txt
+2021-03-13 20:06:44    Running an external tool, command: "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/tools/mafft/mafft" --localpair --maxiterate 1000 --ep 0.123 --quiet --thread 8 --anysymbol "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_9_unalign.txt" > "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/temp_backbone_9_mafft.txt"
+2021-03-13 20:07:16    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_7_mafft.txt
+2021-03-13 20:07:17    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_10.txt
+2021-03-13 20:07:18    Running an external tool, command: "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/tools/mafft/mafft" --localpair --maxiterate 1000 --ep 0.123 --quiet --thread 8 --anysymbol "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/decomposition/subset_10.txt" > "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/temp_subalignment_subset_10.txt"
+2021-03-13 20:07:31    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_8.txt
+2021-03-13 20:07:32    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_20.txt
+2021-03-13 20:07:33    Running an external tool, command: "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/tools/mafft/mafft" --localpair --maxiterate 1000 --ep 0.123 --quiet --thread 8 --anysymbol "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/decomposition/subset_20.txt" > "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/temp_subalignment_subset_20.txt"
+2021-03-13 20:07:39    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_5.txt
+2021-03-13 20:07:41    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_23.txt
+2021-03-13 20:07:41    Running an external tool, command: "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/tools/mafft/mafft" --localpair --maxiterate 1000 --ep 0.123 --quiet --thread 8 --anysymbol "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/decomposition/subset_23.txt" > "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/temp_subalignment_subset_23.txt"
+2021-03-13 20:08:04    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_16.txt
+2021-03-13 20:08:06    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_14.txt
+2021-03-13 20:08:06    Running an external tool, command: "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/tools/mafft/mafft" --localpair --maxiterate 1000 --ep 0.123 --quiet --thread 8 --anysymbol "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/decomposition/subset_14.txt" > "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/temp_subalignment_subset_14.txt"
+2021-03-13 20:08:21    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_3_mafft.txt
+2021-03-13 20:08:22    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_12.txt
+2021-03-13 20:08:22    Running an external tool, command: "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/tools/mafft/mafft" --localpair --maxiterate 1000 --ep 0.123 --quiet --thread 8 --anysymbol "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/decomposition/subset_12.txt" > "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/temp_subalignment_subset_12.txt"
+2021-03-13 20:08:26    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_10_mafft.txt
+2021-03-13 20:08:27    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_15.txt
+2021-03-13 20:08:28    Running an external tool, command: "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/tools/mafft/mafft" --localpair --maxiterate 1000 --ep 0.123 --quiet --thread 8 --anysymbol "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/decomposition/subset_15.txt" > "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/temp_subalignment_subset_15.txt"
+2021-03-13 20:09:02    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_20.txt
+2021-03-13 20:09:03    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_10.txt
+2021-03-13 20:09:03    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_23.txt
+2021-03-13 20:09:04    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_2.txt
+2021-03-13 20:09:05    Running an external tool, command: "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/tools/mafft/mafft" --localpair --maxiterate 1000 --ep 0.123 --quiet --thread 8 --anysymbol "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/decomposition/subset_2.txt" > "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/temp_subalignment_subset_2.txt"
+2021-03-13 20:09:05    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_17.txt
+2021-03-13 20:09:06    Running an external tool, command: "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/tools/mafft/mafft" --localpair --maxiterate 1000 --ep 0.123 --quiet --thread 8 --anysymbol "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/decomposition/subset_17.txt" > "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/temp_subalignment_subset_17.txt"
+2021-03-13 20:09:06    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_9.txt
+2021-03-13 20:09:07    Running an external tool, command: "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/tools/mafft/mafft" --localpair --maxiterate 1000 --ep 0.123 --quiet --thread 8 --anysymbol "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/decomposition/subset_9.txt" > "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/temp_subalignment_subset_9.txt"
+2021-03-13 20:09:23    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_14.txt
+2021-03-13 20:09:24    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_13.txt
+2021-03-13 20:09:24    Running an external tool, command: "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/tools/mafft/mafft" --localpair --maxiterate 1000 --ep 0.123 --quiet --thread 8 --anysymbol "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/decomposition/subset_13.txt" > "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/temp_subalignment_subset_13.txt"
+2021-03-13 20:09:39    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_12.txt
+2021-03-13 20:09:40    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_21.txt
+2021-03-13 20:09:41    Running an external tool, command: "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/tools/mafft/mafft" --localpair --maxiterate 1000 --ep 0.123 --quiet --thread 8 --anysymbol "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/decomposition/subset_21.txt" > "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/temp_subalignment_subset_21.txt"
+2021-03-13 20:09:45    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_15.txt
+2021-03-13 20:09:46    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_18.txt
+2021-03-13 20:09:46    Running an external tool, command: "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/tools/mafft/mafft" --localpair --maxiterate 1000 --ep 0.123 --quiet --thread 8 --anysymbol "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/decomposition/subset_18.txt" > "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/temp_subalignment_subset_18.txt"
+2021-03-13 20:10:19    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_17.txt
+2021-03-13 20:10:19    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_3.txt
+2021-03-13 20:10:20    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_9.txt
+2021-03-13 20:10:20    Running an external tool, command: "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/tools/mafft/mafft" --localpair --maxiterate 1000 --ep 0.123 --quiet --thread 8 --anysymbol "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/decomposition/subset_3.txt" > "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/temp_subalignment_subset_3.txt"
+2021-03-13 20:10:21    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_19.txt
+2021-03-13 20:10:21    Running an external tool, command: "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/tools/mafft/mafft" --localpair --maxiterate 1000 --ep 0.123 --quiet --thread 8 --anysymbol "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/decomposition/subset_19.txt" > "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/temp_subalignment_subset_19.txt"
+2021-03-13 20:10:23    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_2.txt
+2021-03-13 20:10:23    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_4.txt
+2021-03-13 20:10:23    Running an external tool, command: "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/tools/mafft/mafft" --localpair --maxiterate 1000 --ep 0.123 --quiet --thread 8 --anysymbol "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/decomposition/subset_4.txt" > "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/temp_subalignment_subset_4.txt"
+2021-03-13 20:10:38    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_13.txt
+2021-03-13 20:10:38    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_7.txt
+2021-03-13 20:10:38    Running an external tool, command: "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/tools/mafft/mafft" --localpair --maxiterate 1000 --ep 0.123 --quiet --thread 8 --anysymbol "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/decomposition/subset_7.txt" > "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/temp_subalignment_subset_7.txt"
+2021-03-13 20:10:39    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_21.txt
+2021-03-13 20:10:49    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_18.txt
+2021-03-13 20:11:14    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_19.txt
+2021-03-13 20:11:29    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_3.txt
+2021-03-13 20:11:38    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_4.txt
+2021-03-13 20:11:39    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/subalignments/subalignment_subset_7.txt
+2021-03-13 20:11:42    Feeding backbone /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_1_mafft.txt to the graph..
+2021-03-13 20:11:43    Constructed backbone alignment map from /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_1_mafft.txt
+2021-03-13 20:11:46    Fed backbone /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_1_mafft.txt to the graph.
+2021-03-13 20:11:47    Feeding backbone /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_3_mafft.txt to the graph..
+2021-03-13 20:11:49    Constructed backbone alignment map from /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_3_mafft.txt
+2021-03-13 20:11:52    Fed backbone /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_3_mafft.txt to the graph.
+2021-03-13 20:11:53    Feeding backbone /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_4_mafft.txt to the graph..
+2021-03-13 20:11:55    Constructed backbone alignment map from /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_4_mafft.txt
+2021-03-13 20:11:57    Fed backbone /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_4_mafft.txt to the graph.
+2021-03-13 20:11:57    Feeding backbone /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_5_mafft.txt to the graph..
+2021-03-13 20:11:59    Constructed backbone alignment map from /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_5_mafft.txt
+2021-03-13 20:12:02    Fed backbone /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_5_mafft.txt to the graph.
+2021-03-13 20:12:03    Feeding backbone /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_6_mafft.txt to the graph..
+2021-03-13 20:12:04    Constructed backbone alignment map from /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_6_mafft.txt
+2021-03-13 20:12:08    Fed backbone /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_6_mafft.txt to the graph.
+2021-03-13 20:12:08    Feeding backbone /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_7_mafft.txt to the graph..
+2021-03-13 20:12:09    Constructed backbone alignment map from /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_7_mafft.txt
+2021-03-13 20:12:13    Fed backbone /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_7_mafft.txt to the graph.
+2021-03-13 20:12:13    Feeding backbone /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_8_mafft.txt to the graph..
+2021-03-13 20:12:14    Constructed backbone alignment map from /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_8_mafft.txt
+2021-03-13 20:12:18    Fed backbone /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_8_mafft.txt to the graph.
+2021-03-13 20:12:18    Feeding backbone /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_10_mafft.txt to the graph..
+2021-03-13 20:12:20    Constructed backbone alignment map from /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_10_mafft.txt
+2021-03-13 20:12:23    Fed backbone /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_10_mafft.txt to the graph.
+2021-03-13 20:14:02    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_9_mafft.txt
+2021-03-13 20:14:02    Feeding backbone /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_9_mafft.txt to the graph..
+2021-03-13 20:14:03    Constructed backbone alignment map from /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_9_mafft.txt
+2021-03-13 20:14:04    Fed backbone /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_9_mafft.txt to the graph.
+2021-03-13 20:14:18    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_2_mafft.txt
+2021-03-13 20:14:18    Feeding backbone /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_2_mafft.txt to the graph..
+2021-03-13 20:14:18    Constructed backbone alignment map from /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_2_mafft.txt
+2021-03-13 20:14:19    Fed backbone /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/backbone_2_mafft.txt to the graph.
+2021-03-13 20:14:22    Wrote matrix to /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/graph.txt
+2021-03-13 20:14:22    Built the alignment graph in 1635.9071969985962 sec..
+2021-03-13 20:14:22    Running MCL alignment graph clustering..
+2021-03-13 20:14:22    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/clusters.txt
+2021-03-13 20:14:22    Running an external tool, command: "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/tools/mcl/bin/mcl" "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/graph.txt" --abc -o "/mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/temp_clusters.txt" -I 4
+2021-03-13 20:14:50    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/clusters.txt
+2021-03-13 20:14:50    Clustered the graph in 27.70467758178711 sec..
+2021-03-13 20:14:50    Purged duplicate clusters. Found 1000 unique clusters..
+2021-03-13 20:14:50    Found 0 row violations and 2324 column violations..
+2021-03-13 20:14:50    Finished violations sweep. Now 0 row violations and 0 column violations..
+2021-03-13 20:14:50    Purged cluster violations. Found 1000 clean clusters..
+2021-03-13 20:14:51    Finding graph trace with minimum clusters heuristic search..
+2021-03-13 20:14:51    Reached new search frontier
+2021-03-13 20:14:51    {0: 448, 1: 447, 2: 448, 3: 447, 4: 446, 5: 446, 6: 446, 7: 447, 8: 447, 9: 445, 10: 448, 11: 446, 12: 448, 13: 448, 14: 447, 15: 448, 16: 448, 17: 447, 18: 447, 19: 448, 20: 448, 21: 448, 22: 448, 23: 448, 24: 448}
+2021-03-13 20:14:51    Safe frontier reached.. dumping 0 from heap and resetting aggression..
+2021-03-13 20:14:51    Reached new search frontier
+2021-03-13 20:14:51    {0: 450, 1: 449, 2: 450, 3: 449, 4: 448, 5: 448, 6: 448, 7: 449, 8: 448, 9: 447, 10: 450, 11: 447, 12: 450, 13: 450, 14: 449, 15: 450, 16: 450, 17: 449, 18: 449, 19: 450, 20: 450, 21: 450, 22: 450, 23: 450, 24: 450}
+2021-03-13 20:14:51    Reached new search frontier
+2021-03-13 20:14:51    {0: 488, 1: 486, 2: 487, 3: 486, 4: 486, 5: 486, 6: 485, 7: 486, 8: 485, 9: 485, 10: 488, 11: 486, 12: 488, 13: 488, 14: 487, 15: 488, 16: 488, 17: 486, 18: 486, 19: 488, 20: 488, 21: 487, 22: 487, 23: 488, 24: 487}
+2021-03-13 20:14:51    Safe frontier reached.. dumping 34 from heap and resetting aggression..
+2021-03-13 20:14:51    Reached new search frontier
+2021-03-13 20:14:51    {0: 498, 1: 496, 2: 497, 3: 496, 4: 496, 5: 496, 6: 495, 7: 496, 8: 495, 9: 495, 10: 498, 11: 496, 12: 498, 13: 498, 14: 497, 15: 500, 16: 498, 17: 496, 18: 496, 19: 498, 20: 498, 21: 497, 22: 497, 23: 498, 24: 497}
+2021-03-13 20:14:51    Reached new search frontier
+2021-03-13 20:14:51    {0: 499, 1: 497, 2: 498, 3: 497, 4: 497, 5: 497, 6: 496, 7: 497, 8: 496, 9: 496, 10: 499, 11: 497, 12: 499, 13: 499, 14: 498, 15: 501, 16: 499, 17: 497, 18: 497, 19: 499, 20: 499, 21: 498, 22: 498, 23: 499, 24: 498}
+2021-03-13 20:14:51    Reached new search frontier
+2021-03-13 20:14:51    {0: 504, 1: 501, 2: 502, 3: 501, 4: 501, 5: 501, 6: 500, 7: 501, 8: 500, 9: 500, 10: 503, 11: 501, 12: 503, 13: 503, 14: 502, 15: 503, 16: 501, 17: 501, 18: 501, 19: 501, 20: 501, 21: 502, 22: 502, 23: 503, 24: 502}
+2021-03-13 20:14:51    Reached new search frontier
+2021-03-13 20:14:51    {0: 599, 1: 597, 2: 598, 3: 597, 4: 597, 5: 597, 6: 596, 7: 597, 8: 596, 9: 595, 10: 599, 11: 596, 12: 599, 13: 599, 14: 598, 15: 599, 16: 596, 17: 597, 18: 597, 19: 596, 20: 596, 21: 598, 22: 598, 23: 599, 24: 598}
+2021-03-13 20:14:51    Safe frontier reached.. dumping 11 from heap and resetting aggression..
+2021-03-13 20:14:51    Reached new search frontier
+2021-03-13 20:14:51    {0: 690, 1: 688, 2: 689, 3: 688, 4: 688, 5: 688, 6: 687, 7: 688, 8: 687, 9: 685, 10: 690, 11: 687, 12: 690, 13: 689, 14: 688, 15: 689, 16: 684, 17: 688, 18: 688, 19: 687, 20: 687, 21: 689, 22: 689, 23: 690, 24: 686}
+2021-03-13 20:14:51    Safe frontier reached.. dumping 3 from heap and resetting aggression..
+2021-03-13 20:14:51    Reached new search frontier
+2021-03-13 20:14:51    {0: 873, 1: 871, 2: 872, 3: 871, 4: 867, 5: 870, 6: 870, 7: 871, 8: 870, 9: 868, 10: 872, 11: 870, 12: 873, 13: 872, 14: 871, 15: 872, 16: 867, 17: 871, 18: 871, 19: 868, 20: 868, 21: 871, 22: 871, 23: 873, 24: 869}
+2021-03-13 20:14:51    Safe frontier reached.. dumping 1 from heap and resetting aggression..
+2021-03-13 20:14:51    Found alignment graph trace in 0.6242201328277588 sec..
+2021-03-13 20:14:52    Found a trace with 1016 clusters and a total cost of 52982928
+2021-03-13 20:14:52    Skipping optimization pass..
+2021-03-13 20:14:52    Finished optimization in 0.005486249923706055 sec..
+2021-03-13 20:14:52    Uncompressed alignment will have 3775000 cells..
+2021-03-13 20:14:52    Assembling final alignment in /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt
+2021-03-13 20:14:53    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_16.txt
+2021-03-13 20:14:53    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_16.txt
+2021-03-13 20:14:53    Appending induced alignment, 29 sequences of length 3775..
+2021-03-13 20:14:53    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_2.txt
+2021-03-13 20:14:53    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_2.txt
+2021-03-13 20:14:53    Appending induced alignment, 53 sequences of length 3775..
+2021-03-13 20:14:53    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_14.txt
+2021-03-13 20:14:53    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_14.txt
+2021-03-13 20:14:53    Appending induced alignment, 35 sequences of length 3775..
+2021-03-13 20:14:53    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_11.txt
+2021-03-13 20:14:53    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_11.txt
+2021-03-13 20:14:53    Appending induced alignment, 36 sequences of length 3775..
+2021-03-13 20:14:53    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_4.txt
+2021-03-13 20:14:53    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_4.txt
+2021-03-13 20:14:53    Appending induced alignment, 56 sequences of length 3775..
+2021-03-13 20:14:53    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_5.txt
+2021-03-13 20:14:53    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_5.txt
+2021-03-13 20:14:53    Appending induced alignment, 50 sequences of length 3775..
+2021-03-13 20:14:53    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_13.txt
+2021-03-13 20:14:53    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_13.txt
+2021-03-13 20:14:53    Appending induced alignment, 44 sequences of length 3775..
+2021-03-13 20:14:53    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_10.txt
+2021-03-13 20:14:53    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_10.txt
+2021-03-13 20:14:53    Appending induced alignment, 48 sequences of length 3775..
+2021-03-13 20:14:54    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_9.txt
+2021-03-13 20:14:54    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_9.txt
+2021-03-13 20:14:54    Appending induced alignment, 41 sequences of length 3775..
+2021-03-13 20:14:54    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_22.txt
+2021-03-13 20:14:54    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_22.txt
+2021-03-13 20:14:54    Appending induced alignment, 32 sequences of length 3775..
+2021-03-13 20:14:54    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_7.txt
+2021-03-13 20:14:54    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_7.txt
+2021-03-13 20:14:54    Appending induced alignment, 36 sequences of length 3775..
+2021-03-13 20:14:54    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_12.txt
+2021-03-13 20:14:54    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_12.txt
+2021-03-13 20:14:54    Appending induced alignment, 36 sequences of length 3775..
+2021-03-13 20:14:54    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_3.txt
+2021-03-13 20:14:54    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_3.txt
+2021-03-13 20:14:54    Appending induced alignment, 51 sequences of length 3775..
+2021-03-13 20:14:54    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_6.txt
+2021-03-13 20:14:54    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_6.txt
+2021-03-13 20:14:54    Appending induced alignment, 54 sequences of length 3775..
+2021-03-13 20:14:54    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_8.txt
+2021-03-13 20:14:54    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_8.txt
+2021-03-13 20:14:54    Appending induced alignment, 47 sequences of length 3775..
+2021-03-13 20:14:54    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_24.txt
+2021-03-13 20:14:54    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_24.txt
+2021-03-13 20:14:54    Appending induced alignment, 29 sequences of length 3775..
+2021-03-13 20:14:54    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_18.txt
+2021-03-13 20:14:54    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_18.txt
+2021-03-13 20:14:54    Appending induced alignment, 34 sequences of length 3775..
+2021-03-13 20:14:54    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_23.txt
+2021-03-13 20:14:54    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_23.txt
+2021-03-13 20:14:54    Appending induced alignment, 30 sequences of length 3775..
+2021-03-13 20:14:54    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_1.txt
+2021-03-13 20:14:55    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_1.txt
+2021-03-13 20:14:55    Appending induced alignment, 51 sequences of length 3775..
+2021-03-13 20:14:55    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_25.txt
+2021-03-13 20:14:55    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_25.txt
+2021-03-13 20:14:55    Appending induced alignment, 31 sequences of length 3775..
+2021-03-13 20:14:55    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_15.txt
+2021-03-13 20:14:55    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_15.txt
+2021-03-13 20:14:55    Appending induced alignment, 40 sequences of length 3775..
+2021-03-13 20:14:55    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_19.txt
+2021-03-13 20:14:55    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_19.txt
+2021-03-13 20:14:55    Appending induced alignment, 30 sequences of length 3775..
+2021-03-13 20:14:55    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_17.txt
+2021-03-13 20:14:55    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_17.txt
+2021-03-13 20:14:55    Appending induced alignment, 45 sequences of length 3775..
+2021-03-13 20:14:55    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_20.txt
+2021-03-13 20:14:55    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_20.txt
+2021-03-13 20:14:55    Appending induced alignment, 36 sequences of length 3775..
+2021-03-13 20:14:55    Running a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_21.txt
+2021-03-13 20:14:55    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/outputs/graph/induced_subalignment_subset_21.txt
+2021-03-13 20:14:55    Appending induced alignment, 26 sequences of length 3775..
+2021-03-13 20:14:55    Wrote final alignment to /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt
+2021-03-13 20:14:55    Merged 25 subalignments into /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt in 1668.500099182129 sec..
+2021-03-13 20:14:55    Completed a task, output file: /mnt/e/2021/Computacion Molecular/PROYECTO/MAGUS/magunus_result.txt
+2021-03-13 20:14:55    Waiting for 0 tasks to finish..
+2021-03-13 20:14:55    MAGUS finished in 2092.954115629196 seconds..
